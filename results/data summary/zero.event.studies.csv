@@ -1,0 +1,37 @@
+"","Outcome","Lesion location","Time period","Studies removed","Treatments in studies"
+"1","Patency","FP","All timepoints",NA,NA
+"2","Patency","FP","30d to 3m",NA,NA
+"3","Patency","FP","3m to 2y",NA,NA
+"4","Patency","FP",">2y","1346, 6590","EVBT, AT+DCB, PTA, DCB"
+"5","Patency","FP","0 to 3m-2y",NA,NA
+"6","Patency","FP","0 to 2y+",NA,NA
+"7","Patency","InPop","All timepoints",NA,NA
+"8","Patency","InPop","30d to 3m","727","MS, PTA, NA"
+"9","Patency","InPop","3m to 2y",NA,NA
+"10","Patency","InPop",">2y",NA,NA
+"11","Patency","InPop","0 to 3m-2y",NA,NA
+"12","Patency","InPop","0 to 2y+",NA,NA
+"13","Restenosis","FP","All timepoints",NA,NA
+"14","Restenosis","FP","30d to 3m","1016","PTA, MS"
+"15","Restenosis","FP","3m to 2y",NA,NA
+"16","Restenosis","FP",">2y","1346","EVBT, PTA"
+"17","Restenosis","FP","0 to 3m-2y",NA,NA
+"18","Restenosis","FP","0 to 2y+",NA,NA
+"19","Restenosis","InPop","All timepoints",NA,NA
+"20","Restenosis","InPop","30d to 3m",NA,NA
+"21","Restenosis","InPop","3m to 2y",NA,NA
+"22","Restenosis","InPop",">2y",NA,NA
+"23","Restenosis","InPop","0 to 3m-2y",NA,NA
+"24","Restenosis","InPop","0 to 2y+",NA,NA
+"25","TLR","FP","All timepoints",NA,NA
+"26","TLR","FP","30d to 3m",NA,NA
+"27","TLR","FP","3m to 2y","1160","EVBT, PTA, NA"
+"28","TLR","FP",">2y","1346, 6590","EVBT, AT+DCB, PTA, DCB, NA"
+"29","TLR","FP","0 to 3m-2y","1160","EVBT, PTA, NA"
+"30","TLR","FP","0 to 2y+",NA,NA
+"31","TLR","InPop","All timepoints",NA,NA
+"32","TLR","InPop","30d to 3m",NA,NA
+"33","TLR","InPop","3m to 2y",NA,NA
+"34","TLR","InPop",">2y",NA,NA
+"35","TLR","InPop","0 to 3m-2y",NA,NA
+"36","TLR","InPop","0 to 2y+",NA,NA
